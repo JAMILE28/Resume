@@ -23,7 +23,7 @@ body {
 
 .profile-picture img {
     width: 100%;
-    height: auto;
+    height: 50%;
     border-radius: 50%;
 }
 
